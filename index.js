@@ -17,7 +17,7 @@ const job = schedule.scheduleJob(rule, function() {
 console.log('Tarefa agendada para ser executada a cada 30 segundos.');
 
 app.get('/', (req, res) => {
-    res.send('Hello World!')
+    res.send('Hello Worlddddd!')
   })
   
   app.listen(port, () => {
