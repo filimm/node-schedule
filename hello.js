@@ -1,3 +1,3 @@
 export default function hello(req, res) {
-    res.status(200).end('Hello Cron!');
+    res.status(200).end('Helloo Cron!');
   }
